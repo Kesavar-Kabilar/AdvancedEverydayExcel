@@ -2,6 +2,10 @@
 
 This portfolio encompasses the comprehensive body of work successfully accomplished by me (Kesavar Kabilar) in pursuit of the prestigious Everyday Excel (Advanced) Certification, conferred by the esteemed University of Colorado Boulder. Through rigorous academic dedication and the application of advanced Excel techniques, this compilation stands as a testament to the mastery achieved in the realm of Excel proficiency.
 
+## Certificate Details
+
+[https://www.coursera.org/account/accomplishments/verify/PEHFFAWU3YL7]
+
 ## Summary of Skills
 
 1. **Dynamic Formulas** : Utilized dynamic formulas to calculate Raw Score, Total Possible Score, Percentage and the "Score with the lowest 5 dropped" based on changing data.

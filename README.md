@@ -4,7 +4,7 @@ This portfolio encompasses the comprehensive body of work successfully accomplis
 
 ## Certificate Details
 
-[https://www.coursera.org/account/accomplishments/verify/PEHFFAWU3YL7]
+Coursera Certificate Details: https://www.coursera.org/account/accomplishments/verify/PEHFFAWU3YL7
 
 ## Summary of Skills
 

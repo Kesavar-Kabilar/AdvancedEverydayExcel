@@ -1,4 +1,4 @@
-# Everyday Excel (Advanced) by Kesavar Kabilar
+# Advanced Everyday Excel Tasks by Kesavar Kabilar
 
 This portfolio encompasses the comprehensive body of work successfully accomplished by me (Kesavar Kabilar) in pursuit of the prestigious Everyday Excel (Advanced) Certification, conferred by the esteemed University of Colorado Boulder. Through rigorous academic dedication and the application of advanced Excel techniques, this compilation stands as a testament to the mastery achieved in the realm of Excel proficiency.
 

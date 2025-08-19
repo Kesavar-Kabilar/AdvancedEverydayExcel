@@ -6,6 +6,8 @@ This portfolio encompasses the comprehensive body of work successfully accomplis
 
 Coursera Certificate Details: https://www.coursera.org/account/accomplishments/verify/PEHFFAWU3YL7
 
+![](./imgs/AdvancedEverydayExcelCertificate.jpeg)
+
 ## Summary of Skills
 
 1. **Dynamic Formulas** : Utilized dynamic formulas to calculate Raw Score, Total Possible Score, Percentage and the "Score with the lowest 5 dropped" based on changing data.
